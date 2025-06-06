@@ -1,6 +1,6 @@
 # ViT for Bean Leaf Disease Classification 🌱
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codebywiam/visual-transformer/vit-beans-classifier.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codebywiam/visual-transformer/blob/master/vit-beans-classifier.ipynb)
 
 A deep learning project using Vision Transformer (ViT) to classify bean leaf diseases. This implementation fine-tunes a pre-trained ViT model on the Beans Dataset from Hugging Face to identify healthy bean leaves and detect various disease conditions.
 
